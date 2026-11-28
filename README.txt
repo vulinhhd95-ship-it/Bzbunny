@@ -1,4 +1,4 @@
-bzBunny PWA – phiên bản cài trên Android tablet
+bzBunny 3.0.0-alpha.5 – PWA phiên bản thử nghiệm
 
 LƯU Ý: PWA cần được truy cập qua HTTPS (hoặc localhost). Không mở index.html trực tiếp từ file manager để cài PWA.
 
@@ -17,3 +17,7 @@ Offline:
 - Dữ liệu từ vựng/tiến độ hiện vẫn lưu riêng trong trình duyệt/thiết bị; chưa tự đồng bộ giữa máy tính và tablet.
 
 Nếu không muốn công khai repository, có thể dùng một host HTTPS riêng tư/khác. Không đưa API key vào file hay repo.
+
+Alpha 7 dictionary: multi-source lookup (Minhqnd, FreeDictionaryAPI/Wiktionary, Datamuse suggestions), Soha attempt and Cambridge cross-check links. Soha/Cambridge access limitations are documented in app.
+
+Alpha 8: Choose among 8 Bunny expression avatars in Settings; user avatar crop editor remains available. Card open sound replaced with provided tap-notification sound.

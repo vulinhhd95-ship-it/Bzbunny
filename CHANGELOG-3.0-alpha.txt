@@ -1,0 +1,9 @@
+BZBUNNY 3.0.0-ALPHA.10
+
+Fixes:
+- Centered the Continue button below the quiz feedback and reduced its gap.
+- Enter advances after a selected multiple-choice answer and after typed-answer feedback; typing Enter in the answer field still submits/checks the answer.
+- Wrong-answer sound is played at the moment the wrong answer is submitted/revealed only. Advancing to the next question uses the neutral tap sound instead of replaying the wrong-answer sound.
+- Correct-answer sound remains at answer feedback; advancing uses neutral tap sound for quiz/typing.
+
+Alpha 12 - cải thiện chế độ điền từ: chuẩn hóa câu trả lời không phân biệt dấu tiếng Việt; chấp nhận biến thể nghĩa/từ đồng nghĩa đã lưu; với nghĩa tiếng Việt dài, hiển thị đáp án và cho người học tự đánh giá nhớ đúng ý hay chưa thay vì bắt gõ nguyên văn; khi trả lời sai, đáp án được hiển thị trước khi chuyển bài.
